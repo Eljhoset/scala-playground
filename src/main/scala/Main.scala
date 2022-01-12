@@ -5,3 +5,8 @@ object Main {
     println("Hello Scala")
   }
 }
+case class Foo(
+    name:
+    String
+
+              )
